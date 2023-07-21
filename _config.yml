@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tanvi Ranjan"
 title_separator          : "-"
 name                     : &name "Tanvi Ranjan"
-description              : &description "PhD student at Harvard University"
+description              : &description "Research Scientist at Meta"
 url                      : https://tanviranjan2212.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tanvi Ranjan"
   avatar           : "tanvi_cilantro.jpeg"
-  bio              : "Applied Math PhD student"
+  bio              : "Research Scientist"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #”https://scholar.google.com/citations?user=SwOyfkkAAAAJ&hl=en&oi=ao"
